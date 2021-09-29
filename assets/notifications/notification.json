@@ -1,14 +1,14 @@
 {
   "notifications": [
     {
-      "link": "shorturl.at/ezHI1",
+      "imageLink": "shorturl.at/ezHI1",
       "ontap": "link",
       "title": "title name",
       "author": "author name",
       "date": "00/00/000"
     },
     {
-      "link": "shorturl.at/ezHI1",
+      "imageLink": "shorturl.at/ezHI1",
       "ontap": "link",
       "title": "title name",
       "author": "author name",
