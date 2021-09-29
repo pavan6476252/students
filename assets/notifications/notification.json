@@ -1,14 +1,14 @@
 {
   "notifications": [
     {
-      "imageLink": "https://picsum.photos/300/200?random=1",
+      "imageLink": "https://i.picsum.photos/id/594/300/200.jpg?hmac=sXQN9GYjZ4WXAqYqSEMM2o47V-APMQnBBNNyXLAKutM",
       "ontap": "link",
       "title": "title name",
       "author": "author name",
       "date": "00/00/000"
     },
     {
-      "imageLink": "https://picsum.photos/300/200?random=1",
+      "imageLink": "https://i.picsum.photos/id/594/300/200.jpg?hmac=sXQN9GYjZ4WXAqYqSEMM2o47V-APMQnBBNNyXLAKutM",
       "ontap": "link",
       "title": "title name",
       "author": "author name",
