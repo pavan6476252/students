@@ -1,0 +1,28 @@
+{
+  "trending": [
+    {
+      "imageLink": "link",
+      "title": "some title about the topic",
+      "author": "author name",
+      "topicLink": "api link"
+    },
+    {
+      "imageLink": "link",
+      "title": "some title about the topic",
+      "author": "author name",
+      "topicLink": "api link"
+    },
+    {
+      "imageLink": "link",
+      "title": "some title about the topic",
+      "author": "author name",
+      "topicLink": "api link"
+    },
+    {
+      "imageLink": "link",
+      "title": "some title about the topic",
+      "author": "author name",
+      "topicLink": "api link"
+    }
+  ]
+}
