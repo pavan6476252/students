@@ -1,5 +1,5 @@
 {
-  "notifications": [
+  "schema": [
     {
       "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
       "ontap": "http://google.com/",
