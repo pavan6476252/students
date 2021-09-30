@@ -3,6 +3,7 @@
     {
       "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
       "ontap": "http://google.com/",
+      "isOntap":true,
       "title": "title name",
       "discription":"some information about the notification",
       "author": "author name",
@@ -12,6 +13,7 @@
       "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
       "ontap": "http://google.com/",
       "title": "title name",
+      "isOntap":true,
       "discription":"some information about the notification",
       "author": "author name",
       "date": "00/00/000"
@@ -20,6 +22,7 @@
       "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
       "ontap": "http://google.com/",
       "title": "title name",
+      "isOntap":true,
       "discription":"some information about the notification",
       "author": "author name",
       "date": "00/00/000"
@@ -27,7 +30,8 @@
    {
       "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
       "ontap": "http://google.com/",
-      "title": "title name",
+     "isOntap":true,
+      "title": "title name",  
      "discription":"some information about the notification",
       "author": "author name",
       "date": "00/00/000"
