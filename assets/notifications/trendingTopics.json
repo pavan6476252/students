@@ -5,28 +5,28 @@
       "title": "some title about the topic",
       "author": "author name",
       "topicLink": "api link",
-      "topicLinkEnable"=true
+      "topicLinkEnable":true
     },
     {
       "imageLink": "link",
       "title": "some title about the topic",
       "author": "author name",
       "topicLink": "api link",
-      "topicLinkEnable"=true
+      "topicLinkEnable":true
     },
     {
       "imageLink": "link",
       "title": "some title about the topic",
       "author": "author name",
       "topicLink": "api link",
-      "topicLinkEnable"=true
+      "topicLinkEnable":true
     },
     {
       "imageLink": "link",
       "title": "some title about the topic",
       "author": "author name",
       "topicLink": "api link",
-      "topicLinkEnable"=true
+      "topicLinkEnable":true
     }
   ]
 }
