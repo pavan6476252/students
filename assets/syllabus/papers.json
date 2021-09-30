@@ -1,11 +1,11 @@
 {
     "schema": [
-      { "branchName": "cse", "imageLink": "link", "onTap": "link" },
-      { "branchName": "eee", "imageLink": "link", "onTap": "link" },
-      { "branchName": "mech", "imageLink": "link", "onTap": "link" },
-      { "branchName": "civil", "imageLink": "link", "onTap": "link" },
-      { "branchName": "ece", "imageLink": "link", "onTap": "link" },
-      { "branchName": "autoMobiles", "imageLink": "link", "onTap": "link" }
+      { "branchName": "cse", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" },
+      { "branchName": "eee", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" },
+      { "branchName": "mech", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" },
+      { "branchName": "civil", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" },
+      { "branchName": "ece", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" },
+      { "branchName": "autoMobiles", "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w", "onTap": "link" }
     ]
   }
   
