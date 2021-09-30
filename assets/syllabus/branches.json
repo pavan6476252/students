@@ -1,0 +1,10 @@
+{
+  "schema": [
+    { "branchName": "cse", "imageLink": "link", "onTap": "link" },
+    { "branchName": "eee", "imageLink": "link", "onTap": "link" },
+    { "branchName": "mech", "imageLink": "link", "onTap": "link" },
+    { "branchName": "civil", "imageLink": "link", "onTap": "link" },
+    { "branchName": "ece", "imageLink": "link", "onTap": "link" },
+    { "branchName": "autoMobiles", "imageLink": "link", "onTap": "link" }
+  ]
+}
