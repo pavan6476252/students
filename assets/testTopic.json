@@ -24,7 +24,7 @@
         {"title":"title of recomended",
          "discription": "discription of this topic",
          "imageLink" : "https://github.com/sarbagyastha/youtube_player_flutter/raw/master/packages/youtube_player_flutter/misc/ypf_banner.png",
-          "onTap":"https://pavan6476252.github.io/students/assets/testTopic.json"},
+          "onTap":"https://pavan6476252.github.io/students/assets/testTopic.json"}
       ]             
     }
   ]
