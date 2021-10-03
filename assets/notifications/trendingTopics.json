@@ -1,31 +1,31 @@
 {
   "schema": [
     {
-      "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
-      "title": "some title about the topic",
+      "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203170945/HTML-Tutorials.png",
+      "title": "Testing Topic content upload soon",
       "author": "author name",
-      "topicLink": "api link",
+      "topicLink": "https://pavan6476252.github.io/students/assets/topics/cseTopics/cseTopic1.json",
       "topicLinkEnable":true
     },
     {
-      "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
-      "title": "some title about the topic",
+      "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203170945/HTML-Tutorials.png",
+      "title": "Testing Topic content upload soon",
       "author": "author name",
-      "topicLink": "api link",
+      "topicLink": "https://pavan6476252.github.io/students/assets/topics/cseTopics/cseTopic2.json",
       "topicLinkEnable":true
     },
     {
-      "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
-      "title": "some title about the topic",
+      "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203170945/HTML-Tutorials.png",
+      "title": "Testing Topic content upload soon",
       "author": "author name",
-      "topicLink": "api link",
+      "topicLink": "https://pavan6476252.github.io/students/assets/topics/generalTopics/generalTopic1.json",
       "topicLinkEnable":true
     },
     {
-      "imageLink": "https://i.picsum.photos/id/244/300/200.jpg?hmac=EveIsD4iO8woArdqcsJM76yYG6rwDR7OmPuPRwxh_1w",
-      "title": "some title about the topic",
+      "imageLink": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203170945/HTML-Tutorials.png",
+      "title": "Testing Topic content upload soon",
       "author": "author name",
-      "topicLink": "api link",
+      "topicLink": "https://pavan6476252.github.io/students/assets/topics/generalTopics/generalTopic2.json",
       "topicLinkEnable":true
     }
   ]
