@@ -1,0 +1,31 @@
+{
+    "schema": [
+      {
+        "imageLink": "https://media.geeksforgeeks.org/wp-content/uploads/os.png",
+        "title": "Introduction of Operating System ",
+        "author": "Pavan Kumar",
+        "date" : "1/10/21",
+        "content" : [
+            {"content" : "An operating system acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs conveniently and efficiently. "},
+            {"content" : "An operating system is a software that manages computer hardware. The hardware must provide appropriate mechanisms to ensure the correct operation of the computer system and to prevent user programs from interfering with the proper operation of the system. "}
+        ],
+        "videoIsEnable" : true,
+        "videoLink": ["https://www.youtube.com/watch?v=vrDiwCMA4Ps&list=PLBB_MwfPi6EGviqEm6EHB3AapCpY1AD9M&index=1"], 
+        "recomendedTopicsIsEnable" : false,     
+        "recomendedTopics" : [
+          {"title":"title of recomended",
+           "discription": "discription of this topic",
+           "imageLink" : "https://github.com/sarbagyastha/youtube_player_flutter/raw/master/packages/youtube_player_flutter/misc/ypf_banner.png",
+            "onTap":"https://pavan6476252.github.io/students/assets/testTopic.json"},
+          {"title":"title of recomended",
+           "discription": "discription of this topic",
+           "imageLink" : "https://github.com/sarbagyastha/youtube_player_flutter/raw/master/packages/youtube_player_flutter/misc/ypf_banner.png",
+            "onTap":"https://pavan6476252.github.io/students/assets/testTopic.json"},
+          {"title":"title of recomended",
+           "discription": "discription of this topic",
+           "imageLink" : "https://github.com/sarbagyastha/youtube_player_flutter/raw/master/packages/youtube_player_flutter/misc/ypf_banner.png",
+            "onTap":"https://pavan6476252.github.io/students/assets/testTopic.json"}
+        ]             
+      }
+    ]
+  }
