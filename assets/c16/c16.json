@@ -1,0 +1,33 @@
+{
+  "1sem": [
+    { "title": "Basics of Computer", "links": ["bce", "bce2", "bce3"] },
+    { "title": "C language", "links": ["c1", "c2", "c3"] },
+    {
+      "title": "Chemistry",
+      "links": ["chemistry1", "chemistry2", "chemistry3"]
+    },
+    { "title": "Drawing", "links": ["drawing1", "drawing2", "drawing3"] },
+    { "title": "English", "links": ["english1", "english2", "english3"] },
+    { "title": "Mathematics", "links": ["maths1", "maths2", "maths3"] },
+    { "title": "Physics", "links": ["physics1", "physics2", "physics3"] }
+  ],
+  "3sem": [
+    { "title": "DataBase Management System", "links": ["dbms"] },
+    { "title": "Data structures through c", "links": ["ds"] },
+    { "title": "Mathematics", "links": ["maths1", "maths2"] }
+  ],
+  "4sem": [
+    { "title": "Computer Hardware and Networking", "links": ["chn1", "chn2"] },
+    { "title": "Java programming", "links": ["java", "java2"] },
+    { "title": "Microprocessors", "links": ["mp1", "mp2"] },
+    { "title": "Software Engineering", "links": ["se1", "se2"] },
+    { "title": "Web Designing", "links": ["web", "web2"] }
+  ],
+  "5sem": [
+    { "title": "AICT", "links": ["aict", "aict2"] },
+    { "title": "Dot Net", "links": ["dotnet"] },
+    { "title": "IMST", "links": ["imst1", "imst2"] },
+    { "title": "MAD", "links": ["mad"] },
+    { "title": "System Adminidtration", "links": ["sa"] }
+  ]
+}
